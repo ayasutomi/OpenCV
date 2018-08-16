@@ -12,8 +12,8 @@ import cv2
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
 
-img1 = cv2.imread('3D-Matplotlib.png')
-img2 = cv2.imread('mainlogo.png')
+img1 = cv2.imread('imgs/3D-Matplotlib.png')
+img2 = cv2.imread('imgs/mainlogo.png')
 
 rows, cols, channels = img2.shape
 roi = img1[0:rows,0:cols]
