@@ -7,4 +7,4 @@ if s:    # frame captured without any errors
     imshow("cam-test",img)
     waitKey(0)
     destroyAllWindows()
-    imwrite("bookpage.jpg",img) #save image
+    imwrite("watch.jpg",img) #save image
