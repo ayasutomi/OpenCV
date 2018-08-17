@@ -1,5 +1,6 @@
 # OpenCV_Tutorial
-Files of the youtube tutorial "OpenCV with Python for Image and Video Analysis" developed by sentdex and published in the link:
-https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+Complete files generated with completion of the video series tutorial "OpenCV with Python for Image and Video Analysis" developed by sentdex (https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq).
 
-Disclaimer: For my self-development only.
+The files have modification to adapt to the PC used during the tutorials (Linux PC) and to object used for the object detection tutorials.
+
+Disclaimer: Those files were generated for my self-development only.
